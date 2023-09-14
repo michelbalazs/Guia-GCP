@@ -40,4 +40,5 @@
 ## 📁 LIVROS
 
   > Official Google Cloud Certified **Associate Cloud Engineer - Study Guide**
+
   > Official Google Cloud Certified **Profissional Cloud Architect - Study Guide**
