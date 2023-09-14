@@ -23,6 +23,12 @@
 ## 📘 Treinamentos Oficiais
    - [Link Google Learn](https://cloud.google.com/learn/training?hl=pt-BR)
 
+## 🏆 Certificações GCP
+   - [Link Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader?hl=pt-br)
+   - [Link Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer?hl=pt-br)
+   - [Link Professional Cloud Architect](https://cloud.google.com/learn/certification/cloud-architect?hl=pt-br)
+   - [Link Professional Cloud DevOps Engineer](https://cloud.google.com/learn/certification/cloud-devops-engineer?hl=pt-br)
+
 ## 📒 Treinamentos Free
 
 ## 🍺 CONTEÚDOS COMPLEMENTARES
