@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/michelbalazs/Guia-Microsoft">
-    <img src="./imagens/google-cloud-logo.png" alt="Guia Google Cloud" width="405" height="81">
+    <img src="./imagens/google-cloud-logo.png" alt="Guia Google Cloud" width="505" height="81">
   </a>
 </p>
 
