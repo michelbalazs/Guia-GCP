@@ -9,7 +9,7 @@
 
 ## ⚠️ Aviso importante
 
->Conteúdo em Construção!  Se você tem algum conteúdo que possa agregar, compartilhe conosco!
+>Em Construção!  Se você tem algum conteúdo que possa agregar, compartilhe conosco!
 
 ## ⌛ STATUS Serviços Google Cloud - [Link Status Serviços Google](https://status.cloud.google.com/?hl=pt-br)
 
