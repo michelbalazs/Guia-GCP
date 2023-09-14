@@ -17,7 +17,7 @@
    #### - CAF (Cloud Adoption Framework) - [Link Documentação Google](https://cloud.google.com/adoption-framework?hl=pt-br)
    #### - Convenção de nomenclatura - [Link Definição de nomenclatura Google Services](https://cloud.google.com/compute/docs/naming-resources?hl=pt-br)
    
-## 📗 CALCULADORA de Preços Azure Cloud
+## 📗 CALCULADORA de Preços Google Cloud
    - [Link Calculadora Google Cloud](https://cloud.google.com/products/calculator?hl=pt-br)
 
 ## 📘 Treinamentos Oficiais
