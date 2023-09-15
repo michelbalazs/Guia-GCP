@@ -6,11 +6,11 @@
 
 ## Guia-Cloud > GCP
 
-A criação desde material foi baseado na ideia do [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
-
 > Objetivo deste guia é consolidar tudo relacionado a conhecimento no mundo de Google Cloud Plataform (GCP), e ser um guia de referência para profissionais que já estão atuando na área como tambem para novos profissionais! 
 
 ## ⚠️ Aviso importante
+
+A criação desde material foi baseado na ideia do [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
 
 >Em Construção!  Se você tem algum conteúdo que possa agregar, compartilhe conosco!
 
